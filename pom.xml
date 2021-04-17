@@ -63,6 +63,10 @@
             <artifactId>commons-lang3</artifactId>
             <version>${commons.lang.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
